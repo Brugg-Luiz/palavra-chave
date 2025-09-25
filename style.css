@@ -1,10 +1,10 @@
 :root {
---cor-destaque: #ffffff;
+--cor-destaque: #746af4;
 --cor-gradiente-preto: linear-gradient(
 113deg,
-#ffffff 0%,
-#7d7d7d 44.96%,
-#1e2022 100%
+#0095ff 0%,
+hwb(203 45% 3%) 44.96%,
+#f3f9fe 100%
 );
 }
 
